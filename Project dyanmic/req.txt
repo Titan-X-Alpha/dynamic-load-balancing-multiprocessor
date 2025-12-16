@@ -1,0 +1,14 @@
+step 1: download pyhton from browser and install it
+
+then
+
+open powershell and write
+
+step 2: python -m pip install websockets
+
+all done 
+
+
+after opening project folder in vscode open terminal and write
+
+step 3: python final_project.py
